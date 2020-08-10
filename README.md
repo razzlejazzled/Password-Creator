@@ -1,1 +1,4 @@
 # stunning-lamp
+This is a homework assignment to build a password generator. The generator should allow you to choose a password length between 8 and 128 characters, and allow you to choose from up to 4 classes of characters: upper case letters, lower case letters, special characters, and numbers. 
+All of these inputs are displayed in the form of alerts. 
+The link to the application is:  https://razzlejazzled.github.io/stunning-lamp/
